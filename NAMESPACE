@@ -1,0 +1,7 @@
+exportPattern("^[[:alpha:]]+")
+import(fpc)
+import(apcluster)
+import(Ckmeans.1d.dp)
+import(mclust)
+import(ggplot2)
+import(extraDistr)

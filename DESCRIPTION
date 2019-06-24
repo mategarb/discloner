@@ -1,0 +1,12 @@
+Package: discloner
+Type: Package
+Title: Discover clonal populations in cancer
+Version: 0.1.0
+Imports: ggplot2, fpc, apcluster, Ckmeans.1d.dp, mclust, extraDistr
+Author: Mateusz Garbulowski
+Maintainer: Mateusz Garbulowski <mateusz.garbulowski@icm.uu.se>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
